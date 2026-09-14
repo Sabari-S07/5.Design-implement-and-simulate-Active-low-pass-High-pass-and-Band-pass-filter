@@ -84,8 +84,8 @@ Let Ri = Rf = 10 KΩ
 
 
   **TABULATION:**
- 
- <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/bd55560d-26f6-4cf4-93c9-747f4ed11d81" />
+
+  <img width="1088" height="1601" alt="image" src="https://github.com/user-attachments/assets/0b8febf6-726b-4cac-8b5c-1f3d69db42be" />
 
 
 **HPF:**
@@ -114,10 +114,9 @@ Let Ri = Rf = 10 KΩ
 
   **MODEL GRAPH:**
 
- <img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/503286dc-bdac-43a1-9be6-a73aadd99540" />
- 
- <img width="1600" height="1280" alt="image" src="https://github.com/user-attachments/assets/3a6d6fe5-1b01-4b04-b2ea-26efeb3c93ad" />
+  <img width="1600" height="1223" alt="image" src="https://github.com/user-attachments/assets/f5f15c45-4dee-4214-b827-16931728d14c" />
 
+  <img width="1270" height="1601" alt="image" src="https://github.com/user-attachments/assets/1bae4804-5bc2-485b-b9e1-ab8337ef0be4" />
 
   **TABULATION:**
 
