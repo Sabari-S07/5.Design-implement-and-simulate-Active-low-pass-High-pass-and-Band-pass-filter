@@ -74,48 +74,47 @@ Let Ri = Rf = 10 KΩ
 
 **LPF:**
   **CIRCUIT DIAGRAM**
-
-<img width="1010" height="1601" alt="image" src="https://github.com/user-attachments/assets/1bbc1945-60d9-4449-8ea8-21ea0a443271" />
+  <img width="1010" height="1601" alt="image" src="https://github.com/user-attachments/assets/1bbc1945-60d9-4449-8ea8-21ea0a443271" />
 
 
   **MODEL GRAPH:**
 
-<img width="1230" height="1599" alt="image" src="https://github.com/user-attachments/assets/8d0352b5-50b2-4b6e-bf80-e97274123781" />
-<img width="1290" height="1600" alt="image" src="https://github.com/user-attachments/assets/e0e374a1-aad4-43cd-8f65-23bf46ae33a4" />
+ <img width="1230" height="1599" alt="image" src="https://github.com/user-attachments/assets/8d0352b5-50b2-4b6e-bf80-e97274123781" />
+ <img width="1290" height="1600" alt="image" src="https://github.com/user-attachments/assets/e0e374a1-aad4-43cd-8f65-23bf46ae33a4" />
 
 
   **TABULATION:**
  
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/bd55560d-26f6-4cf4-93c9-747f4ed11d81" />
+ <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/bd55560d-26f6-4cf4-93c9-747f4ed11d81" />
 
 
 **HPF:**
   **CIRCUIT DIAGRAM**
 
-<img width="1600" height="1313" alt="image" src="https://github.com/user-attachments/assets/2080873b-a721-4cd2-b67a-a6a0a8c25cdb" />
+ <img width="1600" height="1313" alt="image" src="https://github.com/user-attachments/assets/2080873b-a721-4cd2-b67a-a6a0a8c25cdb" />
 
 
   **MODEL GRAPH:**
 
-<img width="820" height="1601" alt="image" src="https://github.com/user-attachments/assets/479e1d63-ac40-48be-8f03-75bf15922f11" />
-<img width="1270" height="1601" alt="image" src="https://github.com/user-attachments/assets/6fa901dd-f806-44ab-8e0b-1c0097d9b96e" />
+ <img width="820" height="1601" alt="image" src="https://github.com/user-attachments/assets/479e1d63-ac40-48be-8f03-75bf15922f11" />
+ <img width="1270" height="1601" alt="image" src="https://github.com/user-attachments/assets/6fa901dd-f806-44ab-8e0b-1c0097d9b96e" />
 
 
   **TABULATION:**
 
-<img width="1206" height="1599" alt="image" src="https://github.com/user-attachments/assets/077181f6-e569-4d5c-aa95-97833a4a36fb" />
+ <img width="1206" height="1599" alt="image" src="https://github.com/user-attachments/assets/077181f6-e569-4d5c-aa95-97833a4a36fb" />
 
 
   **BPF:**
   **CIRCUIT DIAGRAM**
 
-<img width="1088" height="1601" alt="image" src="https://github.com/user-attachments/assets/f717d2e0-91a3-4295-95ad-305a701e54d7" />
+ <img width="1088" height="1601" alt="image" src="https://github.com/user-attachments/assets/f717d2e0-91a3-4295-95ad-305a701e54d7" />
 
 
   **MODEL GRAPH:**
 
-<img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/503286dc-bdac-43a1-9be6-a73aadd99540" />
-<img width="1600" height="1280" alt="image" src="https://github.com/user-attachments/assets/3a6d6fe5-1b01-4b04-b2ea-26efeb3c93ad" />
+ <img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/503286dc-bdac-43a1-9be6-a73aadd99540" />
+ <img width="1600" height="1280" alt="image" src="https://github.com/user-attachments/assets/3a6d6fe5-1b01-4b04-b2ea-26efeb3c93ad" />
 
 
   **TABULATION:**
