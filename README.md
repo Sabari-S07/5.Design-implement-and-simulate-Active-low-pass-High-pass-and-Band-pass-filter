@@ -120,7 +120,7 @@ Let Ri = Rf = 10 KΩ
 
   **TABULATION:**
 
-  <img width="1600" height="1223" alt="image" src="https://github.com/user-attachments/assets/ea2170d3-166b-47c8-8f14-0579d6f74eaf" />
+  <img width="1600" height="1280" alt="image" src="https://github.com/user-attachments/assets/98d83281-0d8b-4f95-9fe8-d9492b5a54bc" />
 
 
 **LT-SPICE Tool:PROCEDURE:**
@@ -139,7 +139,8 @@ Let Ri = Rf = 10 KΩ
   
   <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/de700e94-548e-4d73-87c9-c57dc5ed9318" />
   
-  <img width="1272" height="1599" alt="image" src="https://github.com/user-attachments/assets/d7614364-8e09-429b-b8c6-26b60b41f006" />
+  <img width="1600" height="1313" alt="image" src="https://github.com/user-attachments/assets/671c751c-ae7a-4be9-aee3-9171dc8f995c" />
+
 
 **RESULT:**
 Thus the Active Low pass, High pass and Band Pass Filters are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
