@@ -91,13 +91,14 @@ Let Ri = Rf = 10 KΩ
 **HPF:**
   **CIRCUIT DIAGRAM**
 
- <img width="1600" height="1313" alt="image" src="https://github.com/user-attachments/assets/2080873b-a721-4cd2-b67a-a6a0a8c25cdb" />
+  <img width="820" height="1601" alt="image" src="https://github.com/user-attachments/assets/6d1414f3-caf0-4d69-a058-132e7ecd0fd5" />
 
 
   **MODEL GRAPH:**
-  <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/54e15a94-cd6c-4fc6-8f96-9fa63118f6fc" />
 
-  <img width="1272" height="1599" alt="image" src="https://github.com/user-attachments/assets/f35320bd-917b-419f-8dd1-95487d525513" />
+  <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9ff27b13-2aad-44e4-b80d-07b6abe79328" />
+
+  <img width="1272" height="1599" alt="image" src="https://github.com/user-attachments/assets/d5608e07-1e01-4c00-89a9-dd06d1919f83" />
 
 
   **TABULATION:**
@@ -108,7 +109,7 @@ Let Ri = Rf = 10 KΩ
   **BPF:**
   **CIRCUIT DIAGRAM**
 
- <img width="1088" height="1601" alt="image" src="https://github.com/user-attachments/assets/f717d2e0-91a3-4295-95ad-305a701e54d7" />
+  <img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/7e9e974e-e481-42e7-ad93-11ad9d89f5fd" />
 
 
   **MODEL GRAPH:**
