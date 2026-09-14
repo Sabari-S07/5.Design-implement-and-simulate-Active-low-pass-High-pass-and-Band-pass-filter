@@ -95,9 +95,9 @@ Let Ri = Rf = 10 KΩ
 
 
   **MODEL GRAPH:**
+  <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/54e15a94-cd6c-4fc6-8f96-9fa63118f6fc" />
 
- <img width="820" height="1601" alt="image" src="https://github.com/user-attachments/assets/479e1d63-ac40-48be-8f03-75bf15922f11" />
- <img width="1270" height="1601" alt="image" src="https://github.com/user-attachments/assets/6fa901dd-f806-44ab-8e0b-1c0097d9b96e" />
+  <img width="1272" height="1599" alt="image" src="https://github.com/user-attachments/assets/f35320bd-917b-419f-8dd1-95487d525513" />
 
 
   **TABULATION:**
@@ -114,6 +114,7 @@ Let Ri = Rf = 10 KΩ
   **MODEL GRAPH:**
 
  <img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/503286dc-bdac-43a1-9be6-a73aadd99540" />
+ 
  <img width="1600" height="1280" alt="image" src="https://github.com/user-attachments/assets/3a6d6fe5-1b01-4b04-b2ea-26efeb3c93ad" />
 
 
@@ -135,7 +136,9 @@ Let Ri = Rf = 10 KΩ
   **CIRCUIT and Waveform**
 
   <img width="1600" height="978" alt="image" src="https://github.com/user-attachments/assets/926cbeea-80eb-4303-9d64-3be5a1887e74" />
+  
   <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/de700e94-548e-4d73-87c9-c57dc5ed9318" />
+  
   <img width="1272" height="1599" alt="image" src="https://github.com/user-attachments/assets/d7614364-8e09-429b-b8c6-26b60b41f006" />
 
 **RESULT:**
